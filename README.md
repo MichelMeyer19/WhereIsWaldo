@@ -5,9 +5,9 @@ The repository accompanies the Master Thesis:
 #### Authors: Mads Hvidberg, Michel Meyer and Tim Becker
 
 Feel free to reach out to any of the authors via mail or linkedin:
-Mads >> hvidbergm@outlook.com >> linkedin.com/in/hvidbergm/
-Michel >> michel.mey1998@gmail.com >> linkedin.com/in/meyer-michel/
-Tim >> timjuliusbecker@gmail.com >> linkedin.com/in/timjuliusbecker/
+* Mads   >> hvidbergm@outlook.com     >> [LinkedIn Mads](http://www.linkedin.com/in/hvidbergm/)
+* Michel >> michel.mey1998@gmail.com  >> [LinkedIn Michel](http://www.linkedin.com/in/meyer-michel/)
+* Tim    >> timjuliusbecker@gmail.com >> [LinkedIn Tim](http://www.linkedin.com/in/timjuliusbecker/)
 
 ## Thesis Abstract:
 This thesis explores the usability of Large Language Models for the purpose of expertise location,
