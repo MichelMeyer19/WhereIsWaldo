@@ -1,4 +1,4 @@
-The repository accompanies the Master Thesis:
+# The repository accompanies the Master Thesis:
 
 ## Where is Waldo
 ### Leveraging Large Language Models for Enhanced Expertise Location
