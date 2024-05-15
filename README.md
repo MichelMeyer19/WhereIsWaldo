@@ -4,6 +4,11 @@ The repository accompanies the Master Thesis:
 ### Leveraging Large Language Models for Enhanced Expertise Location
 #### Authors: Mads Hvidberg, Michel Meyer and Tim Becker
 
+Feel free to reach out to any of the authors via mail or linkedin:
+Mads >> hvidbergm@outlook.com >> linkedin.com/in/hvidbergm/
+Michel >> michel.mey1998@gmail.com >> linkedin.com/in/meyer-michel/
+Tim >> timjuliusbecker@gmail.com >> linkedin.com/in/timjuliusbecker/
+
 ## Thesis Abstract:
 This thesis explores the usability of Large Language Models for the purpose of expertise location,
 using a leading consulting firm in the Nordics as a case study. A tailored Retrieval Augmented
@@ -22,5 +27,9 @@ adoption roadmap.
 ## Keywords: 
 LLMs, RAG, Expertise Location, Agents, Knowledge Management, Professional Services Industry, Algorithm-based Decision-making, Semantic Search, Vector Space Models
 
-## Code
+## Code:
 The repository will contain a sample code as soon as we got approval for publishing.
+
+## Methodology:
+![alt text](https://github.com/MichelMeyer19/WhereIsWaldo/blob/main/Images/rag-methodology.png)
+
